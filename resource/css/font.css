@@ -1,0 +1,38 @@
+
+@charset "utf-8";
+
+/*
+ 웹폰트
+*/
+@font-face {
+    font-family: 'EF_제주돌담체';
+    src: url('../font/EF_jejudoldam.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family : "휴먼편지체";
+    src : url('../font/HMFMPYUN.TTF') format('woff') ;
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NotoSansKR';
+    src: url('../font/NotoSans-Regular.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    src:url('../font/NotoSans-Medium.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    src:url('../font/NotoSans-bold.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
