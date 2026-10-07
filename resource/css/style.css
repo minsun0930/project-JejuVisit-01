@@ -1432,11 +1432,11 @@ z-index: 1;
     color: rgba(255, 255, 255, 0.69);
 }
 #footer .footer_end .footer_text5{
-    display: block;
     font-size: 17px;
-    font-weight: 600;
-    color: rgba(255, 255, 255, 0.69);
+    font-weight: 100;
+    color: white;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #footer .footer_end .wa_mark{
